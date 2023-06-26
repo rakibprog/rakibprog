@@ -12,5 +12,6 @@ I am a Full Stack Developer, skilled in the arts of web and app development, wit
 - CMS: WordPress, Webflow, Shopify
 
 
-### NUMBERS 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+### Numbers : 
+
+![rakibprog's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibprog&show_icons=true&theme=transparent)
