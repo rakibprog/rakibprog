@@ -11,3 +11,6 @@ I am a Full Stack Developer, skilled in the arts of web and app development, wit
 - DevOps: Docker
 - CMS: WordPress, Webflow, Shopify
 
+
+### NUMBERS 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
