@@ -8,4 +8,5 @@ I am a Full Stack Developer, skilled in the arts of web and app development, wit
 ##### Deployment: Heroku, Firebase, Netlify
 ##### API: REST, GraphQL
 ##### DevOps: Docker
+##### CMS: WordPress, Webflow, Shopify
 
